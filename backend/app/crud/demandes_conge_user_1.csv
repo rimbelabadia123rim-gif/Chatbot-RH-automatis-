@@ -1,0 +1,20 @@
+Type de Congé,Date de Début,Date de Fin,Raison
+Annuel,2001-03-03,2001-03-03,Vol
+Annuel,2001-05-05,2001-05-05,Non
+Maladie,2025-03-03,2025-03-13,Exemple
+Annuel,2001-02-02,2001-02-03,Vol
+Annuel,2001-02-02,2001-02-02,Test
+Annuel,2001-02-02,2001-02-02,Vol
+Annuel,2002-02-02,2002-02-02,Oui,backend/app/uploads\preuve_1_1748271551.pdf
+Annuel,2001-02-02,2001-02-02,Sur,backend/app/uploads\preuve_1_1748422644.pdf
+Annuel,2001-02-02,2001-02-02,X,backend/app/uploads\preuve_1_1748423455.png
+Annuel,2000-02-02,2001-05-04,Oui,backend/app/uploads\preuve_1_1748423897.pdf
+Annuel,2001-05-07,2001-05-07,X,backend/app/uploads\preuve_1_1748424150.jpg
+Annuel,2001-05-05,2001-05-05,X,backend/app/uploads\preuve_1_1749114769.jpg
+Annuel,2000-05-05,2052-05-24,Oui,backend/app/uploads\preuve_1_1749133942.png
+Exceptionnel,2025-05-05,2025-06-06,Oui,backend/app/uploads\preuve_1_1752483065.pdf
+Maladie,2025-09-08,2025-09-15,Un rhum,backend/app/uploads\preuve_1_1752614189.png
+Maladie,2025-12-01,2025-12-10,Une rhume,backend/app/uploads\preuve_1_1752614338.png
+Maladie,2025-12-01,2025-12-10,Un rhum,backend/app/uploads\preuve_1_1752614741.png
+Maladie,2025-12-01,2025-12-10,Un rhum,backend/app/uploads\preuve_1_1752615020.png
+Maladie,2025-08-08,2025-08-18,Un rhum,backend/app/uploads\preuve_1_1753780218.pdf

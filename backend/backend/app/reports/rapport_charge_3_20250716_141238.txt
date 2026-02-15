@@ -1,0 +1,64 @@
+
+================================================================================
+RAPPORT D'ANALYSE DÉTAILLÉ - PRÉVISION DE CHARGE DE TRAVAIL
+================================================================================
+
+📅 Date de génération : 16/07/2025 à 14:12
+📊 Période d'analyse : État actuel
+
+
+🎯 RÉSUMÉ EXÉCUTIF
+──────────────────────────────────────────────────
+• Taux d'activité global : 66.7%
+• Employés actifs : 2/3
+• Missions en cours : 1
+• Niveau de charge moyen : Modéré
+• Employés en surcharge : 0
+
+🏢 ANALYSE DÉPARTEMENTALE
+──────────────────────────────────────────────────
+
+Département : IT
+• Employés : 1/1 actifs
+• Taux de charge : 100.0%
+• Niveau de risque : CRITIQUE
+• Types de missions : 1 différentes
+• Capacité restante : 0.0%
+
+Département : HR
+• Employés : 0/1 actifs
+• Taux de charge : 0.0%
+• Niveau de risque : FAIBLE
+• Types de missions : 1 différentes
+• Capacité restante : 100.0%
+
+Département : Finance
+• Employés : 1/1 actifs
+• Taux de charge : 0.0%
+• Niveau de risque : FAIBLE
+• Types de missions : 1 différentes
+• Capacité restante : 100.0%
+
+🚨 ALERTES CRITIQUES
+──────────────────────────────────────────────────
+⚠️ DÉPARTEMENT CRITIQUE: IT (100.0% de charge)
+
+🔮 PRÉDICTIONS ET TENDANCES
+──────────────────────────────────────────────────
+• Charge globale prévue : Stable
+• Besoin de recrutement : Non nécessaire
+• Risque de burnout : Faible
+• Missions moyenne/employé : 1.0
+
+💡 RECOMMANDATIONS STRATÉGIQUES
+──────────────────────────────────────────────────
+1. Audit approfondi des départements à risque
+2. Formation en gestion du temps et priorisation
+3. Mise en place d'indicateurs de suivi hebdomadaires
+4. Planification proactive des congés pour équilibrer la charge
+
+
+================================================================================
+Rapport généré automatiquement par le Système de Gestion RH
+Contact : Support RH pour toute question
+================================================================================

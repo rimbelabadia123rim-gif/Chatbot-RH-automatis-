@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Frontend API</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
+        .result { margin: 10px 0; padding: 10px; border-radius: 3px; }
+        .success { background-color: #d4edda; border: 1px solid #c3e6cb; color: #155724; }
+        .error { background-color: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; }
+        button { padding: 10px 15px; margin: 5px; background: #007bff; color: white; border: none; border-radius: 3px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        input, textarea { width: 100%; padding: 8px; margin: 5px 0; box-sizing: border-box; }
+    </style>
+</head>
+<body>
+    <h1>🧪 Test Frontend API</h1>
+    
+    <div class="test-section">
+        <h3>Test API /api/ask</h3>
+        <input type="text" id="matricule" placeholder="Matricule (ex: 1)" value="1">
+        <input type="text" id="message" placeholder="Message (ex: bonjour)" value="bonjour">
+        <button onclick="testAskAPI()">Tester</button>
+        <div id="ask-result"></div>
+    </div>
+
+    <div class="test-section">
+        <h3>Test Connexion Backend Direct</h3>
+        <button onclick="testBackendDirect()">Tester Backend Direct</button>
+        <div id="backend-result"></div>
+    </div>
+
+    <div class="test-section">
+        <h3>Test Series</h3>
+        <button onclick="runTestSeries()">Lancer Série de Tests</button>
+        <div id="series-result"></div>
+    </div>
+
+    <script>
+        async function testAskAPI() {
+            const matricule = document.getElementById('matricule').value;
+            const message = document.getElementById('message').value;
+            const resultDiv = document.getElementById('ask-result');
+            
+            try {
+                console.log('Testing API with:', { matricule, message });
+                
+                const response = await fetch('/api/ask', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ matricule, message }),
+                });
+
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <div class="result ${response.ok ? 'success' : 'error'}">
+                        <strong>Status:</strong> ${response.status}<br>
+                        <strong>Response:</strong> <pre>${JSON.stringify(data, null, 2)}</pre>
+                    </div>
+                `;
+                
+                console.log('API Response:', data);
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <div class="result error">
+                        <strong>Erreur:</strong> ${error.message}
+                    </div>
+                `;
+                console.error('API Error:', error);
+            }
+        }
+
+        async function testBackendDirect() {
+            const resultDiv = document.getElementById('backend-result');
+            
+            try {
+                const response = await fetch('http://localhost:8000/chat/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ matricule: "1", message: "test" }),
+                });
+
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <div class="result ${response.ok ? 'success' : 'error'}">
+                        <strong>Status:</strong> ${response.status}<br>
+                        <strong>Response:</strong> <pre>${JSON.stringify(data, null, 2)}</pre>
+                    </div>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <div class="result error">
+                        <strong>Erreur CORS/Connexion:</strong> ${error.message}<br>
+                        <em>Le backend doit être accessible via API proxy</em>
+                    </div>
+                `;
+            }
+        }
+
+        async function runTestSeries() {
+            const tests = [
+                { matricule: "1", message: "bonjour" },
+                { matricule: "1", message: "" },
+                { matricule: "1", message: "congé" },
+                { matricule: "1", message: "email" },
+                { matricule: "1", message: "historique" }
+            ];
+            
+            const resultDiv = document.getElementById('series-result');
+            resultDiv.innerHTML = '<div>Running tests...</div>';
+            
+            let results = [];
+            
+            for (let i = 0; i < tests.length; i++) {
+                const test = tests[i];
+                try {
+                    const response = await fetch('/api/ask', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify(test),
+                    });
+
+                    const data = await response.json();
+                    results.push({
+                        test: test,
+                        status: response.status,
+                        success: response.ok,
+                        response: data
+                    });
+                } catch (error) {
+                    results.push({
+                        test: test,
+                        status: 'ERROR',
+                        success: false,
+                        error: error.message
+                    });
+                }
+            }
+            
+            let html = '<h4>Résultats des Tests:</h4>';
+            results.forEach((result, index) => {
+                html += `
+                    <div class="result ${result.success ? 'success' : 'error'}">
+                        <strong>Test ${index + 1}:</strong> ${JSON.stringify(result.test)}<br>
+                        <strong>Status:</strong> ${result.status}<br>
+                        <strong>Response:</strong> <pre>${JSON.stringify(result.response || result.error, null, 2)}</pre>
+                    </div>
+                `;
+            });
+            
+            resultDiv.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

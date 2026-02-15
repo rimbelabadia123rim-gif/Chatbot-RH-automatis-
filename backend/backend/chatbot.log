@@ -1,0 +1,802 @@
+2025-07-02 10:13:14,036 - app.main - INFO - Message original : Bonjour
+2025-07-02 10:13:14,037 - app.main - INFO - Message corrigé : bonjour
+2025-07-02 10:13:18,387 - app.main - INFO - Message original : liste de congés
+2025-07-02 10:13:18,388 - app.main - INFO - Message corrigé : liste de congés
+2025-07-02 10:14:50,750 - app.main - INFO - Message original : liste des congés
+2025-07-02 10:14:50,751 - app.main - INFO - Message corrigé : liste des congés
+2025-07-02 10:24:17,167 - app.main - INFO - Message original : Liste congés
+2025-07-02 10:24:17,170 - app.main - INFO - Message corrigé : liste congés
+2025-07-02 10:24:20,274 - app.main - INFO - Message original : liste des congés
+2025-07-02 10:24:20,274 - app.main - INFO - Message corrigé : liste des congés
+2025-07-02 10:28:20,372 - app.main - INFO - Message original : Bonjour !
+2025-07-02 10:28:20,373 - app.main - INFO - Message corrigé : bonjour !
+2025-07-02 10:28:29,290 - app.main - INFO - Message original : C'est quoi mon nom ?
+2025-07-02 10:28:29,291 - app.main - INFO - Message corrigé : est quoi mon last name ?
+2025-07-02 10:28:36,674 - app.main - INFO - Message original : C'est quoi mon role ?
+2025-07-02 10:28:36,675 - app.main - INFO - Message corrigé : est quoi mon rôle ?
+2025-07-02 10:28:42,950 - app.main - INFO - Message original : C'est quoi mon role ?
+2025-07-02 10:28:42,950 - app.main - INFO - Message corrigé : est quoi mon rôle ?
+2025-07-02 10:29:51,663 - app.main - INFO - Message original : procédure
+2025-07-02 10:29:51,664 - app.main - INFO - Message corrigé : procédure
+2025-07-02 10:30:04,686 - app.main - INFO - Message original : documents cong
+2025-07-02 10:30:04,686 - app.main - INFO - Message corrigé : documents cong
+2025-07-02 10:32:49,835 - app.main - INFO - Message original : documents cong
+2025-07-02 10:32:49,837 - app.main - INFO - Message corrigé : documents cong
+2025-07-02 10:48:08,699 - app.main - INFO - Message original : documents cong
+2025-07-02 10:48:08,700 - app.main - INFO - Message corrigé : documents cong
+2025-07-02 10:48:33,167 - app.main - INFO - Message original : solde congé
+2025-07-02 10:48:33,168 - app.main - INFO - Message corrigé : solde congé
+2025-07-02 10:48:47,502 - app.main - INFO - Message original : x
+2025-07-02 10:48:47,502 - app.main - INFO - Message corrigé : x
+2025-07-02 10:48:47,676 - app.main - INFO - Message original : x
+2025-07-02 10:48:47,676 - app.main - INFO - Message corrigé : x
+2025-07-02 10:48:47,830 - app.main - INFO - Message original : x
+2025-07-02 10:48:47,831 - app.main - INFO - Message corrigé : x
+2025-07-02 10:48:47,990 - app.main - INFO - Message original : x
+2025-07-02 10:48:47,990 - app.main - INFO - Message corrigé : x
+2025-07-02 10:48:48,153 - app.main - INFO - Message original : x
+2025-07-02 10:48:48,153 - app.main - INFO - Message corrigé : x
+2025-07-02 10:48:48,478 - app.main - INFO - Message original : x
+2025-07-02 10:48:48,478 - app.main - INFO - Message corrigé : x
+2025-07-02 10:48:48,664 - app.main - INFO - Message original : x
+2025-07-02 10:48:48,664 - app.main - INFO - Message corrigé : x
+2025-07-02 10:49:01,079 - app.main - INFO - Message original : solde de congés
+2025-07-02 10:49:01,079 - app.main - INFO - Message corrigé : solde de congés
+2025-07-14 09:40:11,766 - app.main - INFO - Message original : liste congé
+2025-07-14 09:40:11,770 - app.main - INFO - Message corrigé : liste congé
+2025-07-14 09:50:29,364 - app.main - INFO - Message original : Demande congé
+2025-07-14 09:50:29,366 - app.main - INFO - Message corrigé : demande congé
+2025-07-14 09:50:34,844 - app.main - INFO - Message original : execptionnel
+2025-07-14 09:50:34,844 - app.main - INFO - Message corrigé : exceptionnel
+2025-07-14 09:50:44,658 - app.main - INFO - Message original : 2025-05-05
+2025-07-14 09:50:44,659 - app.main - INFO - Message corrigé : 2025-05-05
+2025-07-14 09:50:51,253 - app.main - INFO - Message original : 2025-06-06
+2025-07-14 09:50:51,254 - app.main - INFO - Message corrigé : 2025-06-06
+2025-07-14 09:50:53,784 - app.main - INFO - Message original : oui
+2025-07-14 09:50:53,785 - app.main - INFO - Message corrigé : oui
+2025-07-14 09:54:21,917 - app.main - INFO - Message original : liste congé
+2025-07-14 09:54:21,922 - app.main - INFO - Message corrigé : liste congé
+2025-07-14 09:55:04,619 - app.main - INFO - Message original : logs
+2025-07-14 09:55:04,626 - app.main - INFO - Message corrigé : logs
+2025-07-14 10:09:05,598 - app.main - INFO - Message original : prévision charge
+2025-07-14 10:09:05,600 - app.main - INFO - Message corrigé : prévision charge
+2025-07-14 10:09:56,740 - app.main - INFO - Message original : explication surcharge
+2025-07-14 10:09:56,741 - app.main - INFO - Message corrigé : explication surcharge
+2025-07-14 10:10:34,090 - app.main - INFO - Message original : alerte surcharge
+2025-07-14 10:10:34,091 - app.main - INFO - Message corrigé : alerte surcharge
+2025-07-14 10:10:48,356 - app.main - INFO - Message original : aide
+2025-07-14 10:10:48,357 - app.main - INFO - Message corrigé : aide
+2025-07-14 10:11:12,293 - app.main - INFO - Message original : surcharge équipe
+2025-07-14 10:11:12,293 - app.main - INFO - Message corrigé : surcharge équipe
+2025-07-15 21:44:24,190 - app.main - INFO - Message original : Peux-tu me montrer l'historique de mes demandes ?
+2025-07-15 21:44:24,196 - app.main - INFO - Message corrigé : peux-tu me montrer historique de mes demandes ?
+2025-07-15 21:50:01,748 - app.main - INFO - Message original : Bonjr
+2025-07-15 21:50:01,749 - app.main - INFO - Message corrigé : bon
+2025-07-15 21:50:05,149 - app.main - INFO - Message original : slt
+2025-07-15 21:50:05,151 - app.main - INFO - Message corrigé : set
+2025-07-15 21:50:30,965 - app.main - INFO - Message original : Bjr
+2025-07-15 21:50:30,966 - app.main - INFO - Message corrigé : bonjour
+2025-07-15 21:50:52,751 - app.main - INFO - Message original : Bjr
+2025-07-15 21:50:52,752 - app.main - INFO - Message corrigé : bonjour
+2025-07-15 21:50:56,917 - app.main - INFO - Message original : Cava ?
+2025-07-15 21:50:56,918 - app.main - INFO - Message corrigé : cave ?
+2025-07-15 21:50:59,926 - app.main - INFO - Message original : cv ?
+2025-07-15 21:50:59,927 - app.main - INFO - Message corrigé : ça va ?
+2025-07-15 21:51:48,331 - app.main - INFO - Message original : bjr
+2025-07-15 21:51:48,331 - app.main - INFO - Message corrigé : bonjour
+2025-07-15 21:51:57,154 - app.main - INFO - Message original : quel est ton rle ?
+2025-07-15 21:51:57,156 - app.main - INFO - Message corrigé : quel est ton role ?
+2025-07-15 21:52:11,750 - app.main - INFO - Message original : comment posé un congé ?
+2025-07-15 21:52:11,752 - app.main - INFO - Message corrigé : comment posé un congé ?
+2025-07-15 21:52:42,207 - app.main - INFO - Message original : Bjr
+2025-07-15 21:52:42,208 - app.main - INFO - Message corrigé : bonjour
+2025-07-15 21:52:44,155 - app.main - INFO - Message original : x
+2025-07-15 21:52:44,156 - app.main - INFO - Message corrigé : x
+2025-07-15 21:52:44,397 - app.main - INFO - Message original : x
+2025-07-15 21:52:44,398 - app.main - INFO - Message corrigé : x
+2025-07-15 21:52:44,616 - app.main - INFO - Message original : x
+2025-07-15 21:52:44,620 - app.main - INFO - Message corrigé : x
+2025-07-15 21:52:44,948 - app.main - INFO - Message original : x
+2025-07-15 21:52:44,976 - app.main - INFO - Message corrigé : x
+2025-07-15 21:53:33,699 - app.main - INFO - Message original : Bjr
+2025-07-15 21:53:33,704 - app.main - INFO - Message corrigé : bonjour
+2025-07-15 21:53:37,471 - app.main - INFO - Message original : ton rle ?
+2025-07-15 21:53:37,478 - app.main - INFO - Message corrigé : ton role ?
+2025-07-15 21:53:47,015 - app.main - INFO - Message original : mon email ?
+2025-07-15 21:53:47,017 - app.main - INFO - Message corrigé : mon email ?
+2025-07-15 21:53:51,588 - app.main - INFO - Message original : mon rle ?
+2025-07-15 21:53:51,591 - app.main - INFO - Message corrigé : mon role ?
+2025-07-15 21:53:55,459 - app.main - INFO - Message original : mon departement ?
+2025-07-15 21:53:55,476 - app.main - INFO - Message corrigé : mon département ?
+2025-07-15 21:54:04,812 - app.main - INFO - Message original : mon département ?
+2025-07-15 21:54:04,818 - app.main - INFO - Message corrigé : mon département ?
+2025-07-15 21:54:14,753 - app.main - INFO - Message original : mon solde congé 
+2025-07-15 21:54:14,754 - app.main - INFO - Message corrigé : mon solde congé
+2025-07-15 21:54:20,552 - app.main - INFO - Message original : Mon solde rtt ?
+2025-07-15 21:54:20,553 - app.main - INFO - Message corrigé : mon solde rtt ?
+2025-07-15 21:54:32,124 - app.main - INFO - Message original : mon statut ?
+2025-07-15 21:54:32,125 - app.main - INFO - Message corrigé : mon statut ?
+2025-07-15 21:55:04,765 - app.main - INFO - Message original : bjr
+2025-07-15 21:55:04,772 - app.main - INFO - Message corrigé : bonjour
+2025-07-15 21:55:09,999 - app.main - INFO - Message original : c quoi ton rol ?
+2025-07-15 21:55:10,000 - app.main - INFO - Message corrigé : a quoi ton roi ?
+2025-07-15 21:55:20,115 - app.main - INFO - Message original : c quoi mon statut ?
+2025-07-15 21:55:20,124 - app.main - INFO - Message corrigé : a quoi mon statut ?
+2025-07-15 21:55:25,305 - app.main - INFO - Message original : mon eml ?
+2025-07-15 21:55:25,329 - app.main - INFO - Message corrigé : mon email ?
+2025-07-15 21:55:35,606 - app.main - INFO - Message original : mon solde congé ?
+2025-07-15 21:55:35,606 - app.main - INFO - Message corrigé : mon solde congé ?
+2025-07-15 21:55:39,376 - app.main - INFO - Message original : mon solde rtt ?
+2025-07-15 21:55:39,376 - app.main - INFO - Message corrigé : mon solde rtt ?
+2025-07-15 21:56:03,512 - app.main - INFO - Message original : Procédure congé ?
+2025-07-15 21:56:03,513 - app.main - INFO - Message corrigé : procédure congé ?
+2025-07-15 21:56:40,841 - app.main - INFO - Message original : Aide
+2025-07-15 21:56:40,844 - app.main - INFO - Message corrigé : aide
+2025-07-15 21:56:52,071 - app.main - INFO - Message original : je veux déposé une demande de congé
+2025-07-15 21:56:52,088 - app.main - INFO - Message corrigé : je veux déposé une demande de congé
+2025-07-15 21:57:11,158 - app.main - INFO - Message original : Aide
+2025-07-15 21:57:11,159 - app.main - INFO - Message corrigé : aide
+2025-07-15 21:57:19,049 - app.main - INFO - Message original : Procédure 
+2025-07-15 21:57:19,052 - app.main - INFO - Message corrigé : procédure
+2025-07-15 21:57:25,467 - app.main - INFO - Message original : Procédure congé
+2025-07-15 21:57:25,468 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 21:57:27,848 - app.main - INFO - Message original : Aide
+2025-07-15 21:57:27,850 - app.main - INFO - Message corrigé : aide
+2025-07-15 21:58:06,151 - app.main - INFO - Message original : demande congé
+2025-07-15 21:58:06,163 - app.main - INFO - Message corrigé : demande congé
+2025-07-15 21:58:34,978 - app.main - INFO - Message original : Procédure congé
+2025-07-15 21:58:34,979 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 21:58:45,725 - app.main - INFO - Message original : Aide
+2025-07-15 21:58:45,727 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:01:42,166 - app.main - INFO - Message original : liste congé
+2025-07-15 22:01:42,167 - app.main - INFO - Message corrigé : liste congé
+2025-07-15 22:01:51,337 - app.main - INFO - Message original : historique congé
+2025-07-15 22:01:51,338 - app.main - INFO - Message corrigé : historique congé
+2025-07-15 22:01:55,333 - app.main - INFO - Message original : mes demandes de congé
+2025-07-15 22:01:55,333 - app.main - INFO - Message corrigé : mes demandes de congé
+2025-07-15 22:03:27,115 - app.main - INFO - Message original : demande conge
+2025-07-15 22:03:27,116 - app.main - INFO - Message corrigé : demande congé
+2025-07-15 22:03:44,847 - app.main - INFO - Message original : congé
+2025-07-15 22:03:44,848 - app.main - INFO - Message corrigé : congé
+2025-07-15 22:04:00,431 - app.main - INFO - Message original : posé demande congé
+2025-07-15 22:04:00,432 - app.main - INFO - Message corrigé : posé demande congé
+2025-07-15 22:04:38,195 - app.main - INFO - Message original : congé maladie
+2025-07-15 22:04:38,196 - app.main - INFO - Message corrigé : congé maladie
+2025-07-15 22:04:46,688 - app.main - INFO - Message original : absence poru formation
+2025-07-15 22:04:46,688 - app.main - INFO - Message corrigé : absence pour formation
+2025-07-15 22:04:55,559 - app.main - INFO - Message original : Je veux poser des vacances
+2025-07-15 22:04:55,560 - app.main - INFO - Message corrigé : je veux poser des vacances
+2025-07-15 22:05:06,225 - app.main - INFO - Message original : Je dois m'absenter
+2025-07-15 22:05:06,226 - app.main - INFO - Message corrigé : je dois absenter
+2025-07-15 22:05:08,478 - app.main - INFO - Message original : absenc
+2025-07-15 22:05:08,479 - app.main - INFO - Message corrigé : absence
+2025-07-15 22:05:59,471 - app.main - INFO - Message original : conge
+2025-07-15 22:05:59,472 - app.main - INFO - Message corrigé : congé
+2025-07-15 22:06:02,228 - app.main - INFO - Message original : annuel
+2025-07-15 22:06:02,229 - app.main - INFO - Message corrigé : annuel
+2025-07-15 22:06:09,270 - app.main - INFO - Message original : procedure congé
+2025-07-15 22:06:09,270 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 22:06:22,767 - app.main - INFO - Message original : demande congé
+2025-07-15 22:06:22,768 - app.main - INFO - Message corrigé : demande congé
+2025-07-15 22:07:25,029 - app.main - INFO - Message original : demande congés
+2025-07-15 22:07:25,036 - app.main - INFO - Message corrigé : demande congés
+2025-07-15 22:08:06,650 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:08:06,652 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:08:16,350 - app.main - INFO - Message original : suivi de mes congés
+2025-07-15 22:08:16,350 - app.main - INFO - Message corrigé : suivi de mes congés
+2025-07-15 22:08:19,671 - app.main - INFO - Message original : lol
+2025-07-15 22:08:19,671 - app.main - INFO - Message corrigé : vol
+2025-07-15 22:08:21,207 - app.main - INFO - Message original : lol
+2025-07-15 22:08:21,207 - app.main - INFO - Message corrigé : vol
+2025-07-15 22:08:23,154 - app.main - INFO - Message original : lol
+2025-07-15 22:08:23,155 - app.main - INFO - Message corrigé : vol
+2025-07-15 22:08:34,055 - app.main - INFO - Message original : suivi de mes congés
+2025-07-15 22:08:34,055 - app.main - INFO - Message corrigé : suivi de mes congés
+2025-07-15 22:08:48,921 - app.main - INFO - Message original : Procédure congé
+2025-07-15 22:08:48,924 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 22:08:51,786 - app.main - INFO - Message original : Aide
+2025-07-15 22:08:51,787 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:09:11,768 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:09:11,768 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:09:42,847 - app.main - INFO - Message original : mon role
+2025-07-15 22:09:42,847 - app.main - INFO - Message corrigé : mon rôle
+2025-07-15 22:09:46,263 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:09:46,263 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:09:48,518 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:09:48,519 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:10:02,775 - app.main - INFO - Message original : demande congé
+2025-07-15 22:10:02,776 - app.main - INFO - Message corrigé : demande congé
+2025-07-15 22:10:06,262 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:10:06,263 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:10:14,511 - app.main - INFO - Message original : je veux posé une demande de congés
+2025-07-15 22:10:14,512 - app.main - INFO - Message corrigé : je veux posé une demande de congés
+2025-07-15 22:11:23,025 - app.main - INFO - Message original : Procédure congé
+2025-07-15 22:11:23,026 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 22:11:25,745 - app.main - INFO - Message original : Aide
+2025-07-15 22:11:25,745 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:11:30,783 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:11:30,783 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:12:00,080 - app.main - INFO - Message original : annuel
+2025-07-15 22:12:00,081 - app.main - INFO - Message corrigé : annuel
+2025-07-15 22:12:05,421 - app.main - INFO - Message original : d
+2025-07-15 22:12:05,422 - app.main - INFO - Message corrigé : de
+2025-07-15 22:12:06,417 - app.main - INFO - Message original : d
+2025-07-15 22:12:06,420 - app.main - INFO - Message corrigé : de
+2025-07-15 22:12:07,888 - app.main - INFO - Message original : d
+2025-07-15 22:12:07,888 - app.main - INFO - Message corrigé : de
+2025-07-15 22:13:13,282 - app.main - INFO - Message original : Procédure congé
+2025-07-15 22:13:13,283 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 22:13:15,493 - app.main - INFO - Message original : Aide
+2025-07-15 22:13:15,494 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:13:31,873 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:13:31,875 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:14:47,623 - app.main - INFO - Message original : Procédure congé
+2025-07-15 22:14:47,625 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 22:14:51,012 - app.main - INFO - Message original : Aide
+2025-07-15 22:14:51,013 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:15:43,632 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:15:43,634 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:15:47,820 - app.main - INFO - Message original : maladie
+2025-07-15 22:15:47,821 - app.main - INFO - Message corrigé : maladie
+2025-07-15 22:16:00,612 - app.main - INFO - Message original : 2025-09-08
+2025-07-15 22:16:00,613 - app.main - INFO - Message corrigé : 2025-09-08
+2025-07-15 22:16:10,155 - app.main - INFO - Message original : 2025-09-15
+2025-07-15 22:16:10,156 - app.main - INFO - Message corrigé : 2025-09-15
+2025-07-15 22:16:18,561 - app.main - INFO - Message original : un rhum
+2025-07-15 22:16:18,562 - app.main - INFO - Message corrigé : un rhum
+2025-07-15 22:16:35,566 - app.main - INFO - Message original : Expliquez
+2025-07-15 22:16:35,566 - app.main - INFO - Message corrigé : expliquez
+2025-07-15 22:17:57,080 - app.main - INFO - Message original : Précedure congé
+2025-07-15 22:17:57,080 - app.main - INFO - Message corrigé : procédure congé
+2025-07-15 22:18:00,303 - app.main - INFO - Message original : Aide
+2025-07-15 22:18:00,303 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:18:22,874 - app.main - INFO - Message original : posé une demande congés
+2025-07-15 22:18:22,874 - app.main - INFO - Message corrigé : posé une demande congés
+2025-07-15 22:18:26,132 - app.main - INFO - Message original : maladie
+2025-07-15 22:18:26,132 - app.main - INFO - Message corrigé : maladie
+2025-07-15 22:18:36,702 - app.main - INFO - Message original : 2025-12-01
+2025-07-15 22:18:36,703 - app.main - INFO - Message corrigé : 2025-12-01
+2025-07-15 22:18:44,813 - app.main - INFO - Message original : 2025-12-10
+2025-07-15 22:18:44,813 - app.main - INFO - Message corrigé : 2025-12-10
+2025-07-15 22:18:52,149 - app.main - INFO - Message original : une rhume
+2025-07-15 22:18:52,150 - app.main - INFO - Message corrigé : une rhume
+2025-07-15 22:19:03,965 - app.main - INFO - Message original : Merci
+2025-07-15 22:19:03,966 - app.main - INFO - Message corrigé : merci
+2025-07-15 22:22:15,872 - app.main - INFO - Message original : suivi de mes congés
+2025-07-15 22:22:15,889 - app.main - INFO - Message corrigé : suivi de mes congés
+2025-07-15 22:22:42,239 - app.main - INFO - Message original : mes logs
+2025-07-15 22:22:42,240 - app.main - INFO - Message corrigé : mes logs
+2025-07-15 22:24:16,079 - app.main - INFO - Message original : Aide
+2025-07-15 22:24:16,081 - app.main - INFO - Message corrigé : aide
+2025-07-15 22:24:18,823 - app.main - INFO - Message original : Merci
+2025-07-15 22:24:18,825 - app.main - INFO - Message corrigé : merci
+2025-07-15 22:25:00,698 - app.main - INFO - Message original : demande congé
+2025-07-15 22:25:00,701 - app.main - INFO - Message corrigé : demande congé
+2025-07-15 22:25:14,692 - app.main - INFO - Message original : maladie
+2025-07-15 22:25:14,693 - app.main - INFO - Message corrigé : maladie
+2025-07-15 22:25:22,065 - app.main - INFO - Message original : 2025-12-01
+2025-07-15 22:25:22,066 - app.main - INFO - Message corrigé : 2025-12-01
+2025-07-15 22:25:27,794 - app.main - INFO - Message original : 2025-12-10
+2025-07-15 22:25:27,796 - app.main - INFO - Message corrigé : 2025-12-10
+2025-07-15 22:25:30,872 - app.main - INFO - Message original : un rhum
+2025-07-15 22:25:30,874 - app.main - INFO - Message corrigé : un rhum
+2025-07-15 22:25:45,152 - app.main - INFO - Message original : Merci
+2025-07-15 22:25:45,154 - app.main - INFO - Message corrigé : merci
+2025-07-15 22:26:01,959 - app.main - INFO - Message original : suivi de mes congés
+2025-07-15 22:26:01,963 - app.main - INFO - Message corrigé : suivi de mes congés
+2025-07-15 22:26:21,224 - app.main - INFO - Message original : mes logs
+2025-07-15 22:26:21,226 - app.main - INFO - Message corrigé : mes logs
+2025-07-15 22:28:48,419 - app.main - INFO - Message original : liste de congé
+2025-07-15 22:28:48,420 - app.main - INFO - Message corrigé : liste de congé
+2025-07-15 22:28:57,333 - app.main - INFO - Message original : suivi congé
+2025-07-15 22:28:57,334 - app.main - INFO - Message corrigé : suivi congé
+2025-07-15 22:28:59,319 - app.main - INFO - Message original : c
+2025-07-15 22:28:59,320 - app.main - INFO - Message corrigé : a
+2025-07-15 22:29:00,848 - app.main - INFO - Message original : c
+2025-07-15 22:29:00,849 - app.main - INFO - Message corrigé : a
+2025-07-15 22:29:01,813 - app.main - INFO - Message original : c
+2025-07-15 22:29:01,814 - app.main - INFO - Message corrigé : a
+2025-07-15 22:29:14,039 - app.main - INFO - Message original : suivi congé
+2025-07-15 22:29:14,040 - app.main - INFO - Message corrigé : suivi congé
+2025-07-15 22:29:24,552 - app.main - INFO - Message original : liste congé
+2025-07-15 22:29:24,560 - app.main - INFO - Message corrigé : liste congé
+2025-07-15 22:29:46,561 - app.main - INFO - Message original : Demande congé
+2025-07-15 22:29:46,562 - app.main - INFO - Message corrigé : demande congé
+2025-07-15 22:29:52,219 - app.main - INFO - Message original : maladie
+2025-07-15 22:29:52,220 - app.main - INFO - Message corrigé : maladie
+2025-07-15 22:30:02,410 - app.main - INFO - Message original : 2025-12-01
+2025-07-15 22:30:02,412 - app.main - INFO - Message corrigé : 2025-12-01
+2025-07-15 22:30:09,229 - app.main - INFO - Message original : 2025-12-10
+2025-07-15 22:30:09,230 - app.main - INFO - Message corrigé : 2025-12-10
+2025-07-15 22:30:11,604 - app.main - INFO - Message original : un rhum
+2025-07-15 22:30:11,605 - app.main - INFO - Message corrigé : un rhum
+2025-07-15 22:30:51,838 - app.main - INFO - Message original : liste congé
+2025-07-15 22:30:51,838 - app.main - INFO - Message corrigé : liste congé
+2025-07-15 22:32:20,298 - app.main - INFO - Message original : liste congé
+2025-07-15 22:32:20,299 - app.main - INFO - Message corrigé : liste congé
+2025-07-15 22:32:24,428 - app.main - INFO - Message original : liste des congés
+2025-07-15 22:32:24,437 - app.main - INFO - Message corrigé : liste des congés
+2025-07-15 22:35:45,366 - app.main - INFO - Message original : info user Omar Touhami
+2025-07-15 22:35:45,367 - app.main - INFO - Message corrigé : info user oman touhami
+2025-07-15 22:36:17,809 - app.main - INFO - Message original : info user Yassine El Mansouri
+2025-07-15 22:36:17,819 - app.main - INFO - Message corrigé : info user bassine le mansouri
+2025-07-15 22:39:22,501 - app.main - INFO - Message original : info user Omar Touhami
+2025-07-15 22:39:22,502 - app.main - INFO - Message corrigé : info user oman touhami
+2025-07-15 22:39:32,122 - app.main - INFO - Message original : info user omar Touhami
+2025-07-15 22:39:32,122 - app.main - INFO - Message corrigé : info user oman touhami
+2025-07-15 22:40:37,805 - app.main - INFO - Message original : info user Omar Touhami
+2025-07-15 22:40:37,807 - app.main - INFO - Message corrigé : info user omar touhami
+2025-07-15 22:40:43,498 - app.main - INFO - Message original : liste congé
+2025-07-15 22:40:43,499 - app.main - INFO - Message corrigé : liste congé
+2025-07-15 22:41:31,679 - app.main - INFO - Message original : info user omar touhami
+2025-07-15 22:41:31,680 - app.main - INFO - Message corrigé : info user omar touhami
+2025-07-15 22:42:07,407 - app.main - INFO - Message original : Analyse de la charge global
+2025-07-15 22:42:07,408 - app.main - INFO - Message corrigé : analyse de la charge global
+2025-07-15 22:44:22,412 - app.main - INFO - Message original : prévision charge
+2025-07-15 22:44:22,413 - app.main - INFO - Message corrigé : prévision charge
+2025-07-15 22:44:31,943 - app.main - INFO - Message original : info user omar touhami
+2025-07-15 22:44:31,943 - app.main - INFO - Message corrigé : info user omar touhami
+2025-07-15 22:45:35,829 - app.main - INFO - Message original : prévision charge
+2025-07-15 22:45:35,840 - app.main - INFO - Message corrigé : prévision charge
+2025-07-15 22:45:54,157 - app.main - INFO - Message original : explication surcharge
+2025-07-15 22:45:54,158 - app.main - INFO - Message corrigé : explication surcharge
+2025-07-15 22:47:24,246 - app.main - INFO - Message original : rapport analyse congé
+2025-07-15 22:47:24,247 - app.main - INFO - Message corrigé : rapport analyse congé
+2025-07-16 14:12:38,681 - app.main - INFO - Message original : rapport charge travail
+2025-07-16 14:12:38,683 - app.main - INFO - Message corrigé : rapport charge travail
+2025-07-16 14:12:50,244 - app.main - INFO - Message original : télécharger rapport_charge_3_20250716_141238.txt
+2025-07-16 14:12:50,245 - app.main - INFO - Message corrigé : télécharger rapport_charge_3_20250716_141238.txt
+2025-07-16 14:20:26,032 - app.main - INFO - Message original : SIMPLIFIER CETTE REPONSE EN ajoutant un boutton de téléchargement dedans,  📊 𝗥𝗔𝗣𝗣𝗢𝗥𝗧 𝗗𝗘 𝗖𝗛𝗔𝗥𝗚𝗘 𝗗𝗘 𝗧𝗥𝗔𝗩𝗔𝗜𝗟 𝗚𝗘́𝗡𝗘́𝗥𝗘́  ═══════════════════════════════════════════════════  🎯 𝗔𝗽𝗲𝗿𝗰̧𝘂 𝗘𝘅𝗲́𝗰𝘂𝘁𝗶𝗳 : 📊 Taux d'activité global : 66.7% 👥 Employés actifs : 2/3 🔄 Missions en cours : 1 📈 Niveau de charge : Modéré ⚠️ Employés surchargés : 0  🚨 𝗗𝗲́𝗽𝗮𝗿𝘁𝗲𝗺𝗲𝗻𝘁𝘀 𝗮̀ 𝗥𝗶𝘀𝗾𝘂𝗲 : 🔴 IT : 100.0% (CRITIQUE)  🔮 𝗣𝗿𝗲́𝗱𝗶𝗰𝘁𝗶𝗼𝗻𝘀 : 📈 Charge prévue : Stable 👨‍💼 Besoin recrutement : Non nécessaire 🔥 Risque burnout : Faible  🚨 𝗔𝗹𝗲𝗿𝘁𝗲𝘀 𝗖𝗿𝗶𝘁𝗶𝗾𝘂𝗲𝘀 : 1  ═══════════════════════════════════════════════════  📁 𝗙𝗶𝗰𝗵𝗶𝗲𝗿 𝗴𝗲́𝗻𝗲́𝗿𝗲́ : rapport_charge_3_20250716_141238.txt 📥 Tapez 'télécharger rapport_charge_3_20250716_141238.txt' pour obtenir le rapport complet  💡 Le rapport complet contient l'analyse individuelle détaillée, les recommandations stratégiques et toutes les prédictions.
+2025-07-16 14:20:26,034 - app.main - INFO - Message corrigé : simplifier cette réponse en ajoutant un bouton de téléchargement dedans a 𝗥𝗔𝗣𝗣𝗢𝗥𝗧 de 𝗖𝗛𝗔𝗥𝗚𝗘 de 𝗧𝗥𝗔𝗩𝗔𝗜𝗟 𝗚𝗘́𝗡𝗘́𝗥𝗘́ ═══════════════════════════════════════════════════ a 𝗔𝗽𝗲𝗿𝗰̧𝘂 𝗘𝘅𝗲́𝗰𝘂𝘁𝗶𝗳 : a taux activité global : 66.7% a employés actifs : 2/3 a missions en cours : 1 a niveau de charge : modéré de employés surchargés : 0 a 𝗗𝗲́𝗽𝗮𝗿𝘁𝗲𝗺𝗲𝗻𝘁𝘀 de 𝗥𝗶𝘀𝗾𝘂𝗲 : a et : 100.0% critique a 𝗣𝗿𝗲́𝗱𝗶𝗰𝘁𝗶𝗼𝗻𝘀 : a charge prévue : stable 👨‍💼 besoin recrutement : non nécessaire a risque burnous : faible a 𝗔𝗹𝗲𝗿𝘁𝗲𝘀 𝗖𝗿𝗶𝘁𝗶𝗾𝘂𝗲𝘀 : 1 ═══════════════════════════════════════════════════ a 𝗙𝗶𝗰𝗵𝗶𝗲𝗿 𝗴𝗲́𝗻𝗲́𝗿𝗲́ : rapport_charge_3_20250716_141238.txt a tapez télécharger rapport_charge_3_20250716_141238.txt' pour obtenir le rapport complet a le rapport complet contient analyse individuelle détaillée les recommandations stratégiques et toutes les prédictions
+2025-07-16 14:20:36,302 - app.main - INFO - Message original : rapport charge travail
+2025-07-16 14:20:36,302 - app.main - INFO - Message corrigé : rapport charge travail
+2025-07-16 14:33:14,209 - app.main - INFO - Message original : rapport charge travail
+2025-07-16 14:33:14,210 - app.main - INFO - Message corrigé : rapport charge travail
+2025-07-16 14:39:52,421 - app.main - INFO - Message original : bjr
+2025-07-16 14:39:52,422 - app.main - INFO - Message corrigé : bonjour
+2025-07-16 14:39:55,083 - app.main - INFO - Message original : rapport
+2025-07-16 14:39:55,084 - app.main - INFO - Message corrigé : rapport
+2025-07-16 14:43:10,446 - app.main - INFO - Message original : rapport charge travail
+2025-07-16 14:43:10,448 - app.main - INFO - Message corrigé : rapport charge travail
+2025-07-16 14:43:20,356 - app.main - INFO - Message original : rapport charge travail
+2025-07-16 14:43:20,356 - app.main - INFO - Message corrigé : rapport charge travail
+2025-07-16 14:43:45,534 - app.main - INFO - Message original : télécharger rapport_charge_3_20250716_144320.txt
+2025-07-16 14:43:45,534 - app.main - INFO - Message corrigé : télécharger rapport_charge_3_20250716_144320.txt
+2025-07-16 14:50:29,526 - app.main - INFO - Message original : rapport charge travail
+2025-07-16 14:50:29,528 - app.main - INFO - Message corrigé : rapport charge travail
+2025-07-29 09:25:06,610 - app.main - INFO - Message original : bjr
+2025-07-29 09:25:06,642 - app.main - INFO - Message corrigé : bonjour
+2025-07-29 09:25:24,166 - app.main - INFO - Message original : mon eml
+2025-07-29 09:25:24,167 - app.main - INFO - Message corrigé : mon email
+2025-07-29 09:25:27,210 - app.main - INFO - Message original : mon nm
+2025-07-29 09:25:27,211 - app.main - INFO - Message corrigé : mon last name
+2025-07-29 09:26:29,140 - app.main - INFO - Message original : le nom de Khadija bennani ?
+2025-07-29 09:26:29,140 - app.main - INFO - Message corrigé : le last name de khadija bernant ?
+2025-07-29 09:26:54,991 - app.main - INFO - Message original : pouvez fournir les info user Khadija bennani ?
+2025-07-29 09:26:54,992 - app.main - INFO - Message corrigé : pouvez fournir les info user khadija bernant ?
+2025-07-29 09:26:59,676 - app.main - INFO - Message original : mon eml
+2025-07-29 09:26:59,676 - app.main - INFO - Message corrigé : mon email
+2025-07-29 09:27:01,775 - app.main - INFO - Message original : mon nom
+2025-07-29 09:27:01,776 - app.main - INFO - Message corrigé : mon last name
+2025-07-29 09:27:05,405 - app.main - INFO - Message original : solde rtt
+2025-07-29 09:27:05,406 - app.main - INFO - Message corrigé : solde rtt
+2025-07-29 09:27:19,045 - app.main - INFO - Message original : c quoi les informations de l'user khadija bennani
+2025-07-29 09:27:19,046 - app.main - INFO - Message corrigé : a quoi les informations de causer khadija bernant
+2025-07-29 09:27:24,799 - app.main - INFO - Message original : mon nom
+2025-07-29 09:27:24,799 - app.main - INFO - Message corrigé : mon last name
+2025-07-29 09:27:26,658 - app.main - INFO - Message original : mon prnm
+2025-07-29 09:27:26,659 - app.main - INFO - Message corrigé : mon first name
+2025-07-29 09:27:32,255 - app.main - INFO - Message original : mon eml
+2025-07-29 09:27:32,256 - app.main - INFO - Message corrigé : mon email
+2025-07-29 09:27:36,276 - app.main - INFO - Message original : mon solde rtt
+2025-07-29 09:27:36,276 - app.main - INFO - Message corrigé : mon solde rtt
+2025-07-29 09:27:50,327 - app.main - INFO - Message original : c quoi les info de user khadija bennan
+2025-07-29 09:27:50,327 - app.main - INFO - Message corrigé : a quoi les info de user khadija benne
+2025-07-29 09:27:53,716 - app.main - INFO - Message original : mon nom
+2025-07-29 09:27:53,717 - app.main - INFO - Message corrigé : mon last name
+2025-07-29 09:27:56,968 - app.main - INFO - Message original : mon prnm
+2025-07-29 09:27:56,969 - app.main - INFO - Message corrigé : mon first name
+2025-07-29 09:27:59,224 - app.main - INFO - Message original : mon eml
+2025-07-29 09:27:59,225 - app.main - INFO - Message corrigé : mon email
+2025-07-29 09:28:03,216 - app.main - INFO - Message original : mon departement
+2025-07-29 09:28:03,217 - app.main - INFO - Message corrigé : mon département
+2025-07-29 09:28:06,427 - app.main - INFO - Message original : mon no
+2025-07-29 09:28:06,427 - app.main - INFO - Message corrigé : mon no
+2025-07-29 09:28:08,472 - app.main - INFO - Message original : mon prenom
+2025-07-29 09:28:08,472 - app.main - INFO - Message corrigé : mon prénom
+2025-07-29 09:28:09,746 - app.main - INFO - Message original : mon eml
+2025-07-29 09:28:09,747 - app.main - INFO - Message corrigé : mon email
+2025-07-29 09:28:11,520 - app.main - INFO - Message original : mon role
+2025-07-29 09:28:11,521 - app.main - INFO - Message corrigé : mon rôle
+2025-07-29 09:28:15,850 - app.main - INFO - Message original : mon status
+2025-07-29 09:28:15,850 - app.main - INFO - Message corrigé : mon statue
+2025-07-29 09:28:19,363 - app.main - INFO - Message original : statut
+2025-07-29 09:28:19,364 - app.main - INFO - Message corrigé : statut
+2025-07-29 09:28:22,832 - app.main - INFO - Message original : mon statut
+2025-07-29 09:28:22,832 - app.main - INFO - Message corrigé : mon statut
+2025-07-29 09:28:25,976 - app.main - INFO - Message original : mon rl
+2025-07-29 09:28:25,977 - app.main - INFO - Message corrigé : mon il
+2025-07-29 09:28:28,658 - app.main - INFO - Message original : mon prnm
+2025-07-29 09:28:28,659 - app.main - INFO - Message corrigé : mon first name
+2025-07-29 09:28:34,113 - app.main - INFO - Message original : mon statut
+2025-07-29 09:28:34,114 - app.main - INFO - Message corrigé : mon statut
+2025-07-29 09:29:45,447 - app.main - INFO - Message original : mon adresse
+2025-07-29 09:29:45,448 - app.main - INFO - Message corrigé : mon adresse
+2025-07-29 09:30:05,155 - app.main - INFO - Message original : mes missions
+2025-07-29 09:30:05,156 - app.main - INFO - Message corrigé : mes missions
+2025-07-29 09:30:10,931 - app.main - INFO - Message original : mon nom
+2025-07-29 09:30:10,932 - app.main - INFO - Message corrigé : mon last name
+2025-07-29 09:30:13,206 - app.main - INFO - Message original : mon prnm
+2025-07-29 09:30:13,207 - app.main - INFO - Message corrigé : mon first name
+2025-07-29 09:30:14,724 - app.main - INFO - Message original : mon role
+2025-07-29 09:30:14,724 - app.main - INFO - Message corrigé : mon rôle
+2025-07-29 09:30:16,668 - app.main - INFO - Message original : mon statut
+2025-07-29 09:30:16,669 - app.main - INFO - Message corrigé : mon statut
+2025-07-29 09:30:31,228 - app.main - INFO - Message original : c quoi les info user Khadija Bennani
+2025-07-29 09:30:31,228 - app.main - INFO - Message corrigé : a quoi les info user khadija bernant
+2025-07-29 09:31:59,928 - app.main - INFO - Message original : Fournissez les info user Omar Touhami
+2025-07-29 09:31:59,929 - app.main - INFO - Message corrigé : fournissez les info user omar touhami
+2025-07-29 09:45:04,694 - app.main - INFO - Message original : c quoi mon role
+2025-07-29 09:45:04,696 - app.main - INFO - Message corrigé : a quoi mon rôle
+2025-07-29 09:45:43,486 - app.main - INFO - Message original : mon departement ?
+2025-07-29 09:45:43,487 - app.main - INFO - Message corrigé : mon département ?
+2025-07-29 09:46:01,319 - app.main - INFO - Message original : mon department
+2025-07-29 09:46:01,319 - app.main - INFO - Message corrigé : mon department
+2025-07-29 09:46:09,857 - app.main - INFO - Message original : mon role ?
+2025-07-29 09:46:09,860 - app.main - INFO - Message corrigé : mon rôle ?
+2025-07-29 09:46:11,364 - app.main - INFO - Message original : mon department
+2025-07-29 09:46:11,365 - app.main - INFO - Message corrigé : mon department
+2025-07-29 09:46:25,377 - app.main - INFO - Message original : fournissez les info user de Omar Touhami
+2025-07-29 09:46:25,378 - app.main - INFO - Message corrigé : fournissez les info user de omar touhami
+2025-07-29 10:01:04,927 - app.main - INFO - Message original : Procedure congé ?
+2025-07-29 10:01:04,929 - app.main - INFO - Message corrigé : procédure congé ?
+2025-07-29 10:09:15,628 - app.main - INFO - Message original : Je veux posé une demande de congé
+2025-07-29 10:09:15,629 - app.main - INFO - Message corrigé : je veux posé une demande de congé
+2025-07-29 10:09:20,622 - app.main - INFO - Message original : maladie
+2025-07-29 10:09:20,623 - app.main - INFO - Message corrigé : maladie
+2025-07-29 10:09:36,402 - app.main - INFO - Message original : 2025-08-08
+2025-07-29 10:09:36,402 - app.main - INFO - Message corrigé : 2025-08-08
+2025-07-29 10:09:52,963 - app.main - INFO - Message original : 2025-08-18
+2025-07-29 10:09:52,963 - app.main - INFO - Message corrigé : 2025-08-18
+2025-07-29 10:09:59,347 - app.main - INFO - Message original : Un rhum
+2025-07-29 10:09:59,347 - app.main - INFO - Message corrigé : un rhum
+2025-07-29 10:21:22,855 - app.main - INFO - Message original : suivi de mes congés
+2025-07-29 10:21:22,858 - app.main - INFO - Message corrigé : suivi de mes congés
+2025-07-29 10:25:39,144 - app.main - INFO - Message original : mes logs
+2025-07-29 10:25:39,149 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 10:32:18,277 - app.main - INFO - Message original : mes logs
+2025-07-29 10:32:18,278 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 10:39:35,248 - app.main - INFO - Message original : mes logs
+2025-07-29 10:39:35,249 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 10:41:11,068 - app.main - INFO - Message original : mes logs
+2025-07-29 10:41:11,069 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 10:44:09,107 - app.main - INFO - Message original : mes logs
+2025-07-29 10:44:09,108 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 10:50:08,625 - app.main - INFO - Message original : mes logs
+2025-07-29 10:50:08,627 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 11:05:27,092 - app.main - INFO - Message original : mes logs
+2025-07-29 11:05:27,094 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 11:30:43,925 - app.main - INFO - Message original : mes logs
+2025-07-29 11:30:43,926 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 11:46:31,314 - app.main - INFO - Message original : mes logs
+2025-07-29 11:46:31,316 - app.main - INFO - Message corrigé : mes logs
+2025-07-29 11:55:51,938 - app.main - INFO - Message original : surcharge
+2025-07-29 11:55:51,939 - app.main - INFO - Message corrigé : surcharge
+2025-07-29 11:55:56,320 - app.main - INFO - Message original : alerte surcharge
+2025-07-29 11:55:56,320 - app.main - INFO - Message corrigé : alerte surcharge
+2025-07-29 11:56:25,530 - app.main - INFO - Message original : charge travail
+2025-07-29 11:56:25,530 - app.main - INFO - Message corrigé : charge travail
+2025-07-29 11:56:32,966 - app.main - INFO - Message original : prévision charge
+2025-07-29 11:56:32,967 - app.main - INFO - Message corrigé : prévision charge
+2025-07-29 12:03:37,502 - app.main - INFO - Message original : explication surcharge
+2025-07-29 12:03:37,505 - app.main - INFO - Message corrigé : explication surcharge
+2025-08-05 10:39:01,522 - app.main - INFO - Message original : Bonjour !
+2025-08-05 10:39:01,524 - app.main - INFO - Message corrigé : bonjour !
+2025-08-05 10:39:05,909 - app.main - INFO - Message original : mon email ?
+2025-08-05 10:39:05,910 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:39:08,053 - app.main - INFO - Message original : mon eml ?
+2025-08-05 10:39:08,054 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:39:18,509 - app.main - INFO - Message original : mon solde congé ?
+2025-08-05 10:39:18,511 - app.main - INFO - Message corrigé : mon solde congé ?
+2025-08-05 10:39:35,847 - app.main - INFO - Message original : solde congé ?
+2025-08-05 10:39:35,847 - app.main - INFO - Message corrigé : solde congé ?
+2025-08-05 10:39:37,391 - app.main - INFO - Message original : fea
+2025-08-05 10:39:37,392 - app.main - INFO - Message corrigé : fera
+2025-08-05 10:39:38,077 - app.main - INFO - Message original : afe
+2025-08-05 10:39:38,078 - app.main - INFO - Message corrigé : are
+2025-08-05 10:39:39,632 - app.main - INFO - Message original : afe
+2025-08-05 10:39:39,633 - app.main - INFO - Message corrigé : are
+2025-08-05 10:39:54,139 - app.main - INFO - Message original : solde congé ?
+2025-08-05 10:39:54,142 - app.main - INFO - Message corrigé : solde congé ?
+2025-08-05 10:40:22,623 - app.main - INFO - Message original : Bnjr
+2025-08-05 10:40:22,624 - app.main - INFO - Message corrigé : bar
+2025-08-05 10:40:44,225 - app.main - INFO - Message original : Bonjour !
+2025-08-05 10:40:44,226 - app.main - INFO - Message corrigé : bonjour !
+2025-08-05 10:40:47,511 - app.main - INFO - Message original : mon email ?
+2025-08-05 10:40:47,514 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:40:49,791 - app.main - INFO - Message original : mon eml ?
+2025-08-05 10:40:49,792 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:40:53,801 - app.main - INFO - Message original : solde congé ?
+2025-08-05 10:40:53,804 - app.main - INFO - Message corrigé : solde congé ?
+2025-08-05 10:40:56,435 - app.main - INFO - Message original : solde rtt ?
+2025-08-05 10:40:56,436 - app.main - INFO - Message corrigé : solde rtt ?
+2025-08-05 10:41:07,565 - app.main - INFO - Message original : mon role ?
+2025-08-05 10:41:07,566 - app.main - INFO - Message corrigé : mon rôle ?
+2025-08-05 10:41:12,794 - app.main - INFO - Message original : mon statut ?
+2025-08-05 10:41:12,795 - app.main - INFO - Message corrigé : mon statut ?
+2025-08-05 10:41:28,693 - app.main - INFO - Message original : je peux avoir les info user de Khadija Bennani ?
+2025-08-05 10:41:28,694 - app.main - INFO - Message corrigé : je peux avoir les info user de khadija bernant ?
+2025-08-05 10:41:55,684 - app.main - INFO - Message original : mon department ?
+2025-08-05 10:41:55,685 - app.main - INFO - Message corrigé : mon department ?
+2025-08-05 10:42:08,712 - app.main - INFO - Message original : fournissez les info user de Rim Belabadia
+2025-08-05 10:42:08,712 - app.main - INFO - Message corrigé : fournissez les info user de riz belabadia
+2025-08-05 10:42:47,582 - app.main - INFO - Message original : Bonjour !
+2025-08-05 10:42:47,583 - app.main - INFO - Message corrigé : bonjour !
+2025-08-05 10:42:50,936 - app.main - INFO - Message original : mon nom ?
+2025-08-05 10:42:50,937 - app.main - INFO - Message corrigé : mon last name ?
+2025-08-05 10:42:55,149 - app.main - INFO - Message original : mon prnm ?
+2025-08-05 10:42:55,150 - app.main - INFO - Message corrigé : mon first name ?
+2025-08-05 10:42:58,469 - app.main - INFO - Message original : mon eml ?
+2025-08-05 10:42:58,470 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:43:02,903 - app.main - INFO - Message original : solde rtt ?
+2025-08-05 10:43:02,904 - app.main - INFO - Message corrigé : solde rtt ?
+2025-08-05 10:43:05,986 - app.main - INFO - Message original : solde congé ?
+2025-08-05 10:43:05,987 - app.main - INFO - Message corrigé : solde congé ?
+2025-08-05 10:43:16,811 - app.main - INFO - Message original : c'est quoi mon role ?
+2025-08-05 10:43:16,811 - app.main - INFO - Message corrigé : est quoi mon rôle ?
+2025-08-05 10:43:27,882 - app.main - INFO - Message original : c quoi mon statut dans l'entreprise ?
+2025-08-05 10:43:27,883 - app.main - INFO - Message corrigé : a quoi mon statut dans entreprise ?
+2025-08-05 10:43:40,496 - app.main - INFO - Message original : je peux avoir les info de khadija bennani ?
+2025-08-05 10:43:40,497 - app.main - INFO - Message corrigé : je peux avoir les info de khadija bernant ?
+2025-08-05 10:44:12,287 - app.main - INFO - Message original : Bjr
+2025-08-05 10:44:12,291 - app.main - INFO - Message corrigé : bonjour
+2025-08-05 10:44:19,696 - app.main - INFO - Message original : mon role dans l'entreprise ?
+2025-08-05 10:44:19,696 - app.main - INFO - Message corrigé : mon rôle dans entreprise ?
+2025-08-05 10:44:24,927 - app.main - INFO - Message original : mon email ?
+2025-08-05 10:44:24,928 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:44:29,035 - app.main - INFO - Message original : mon eml ?
+2025-08-05 10:44:29,036 - app.main - INFO - Message corrigé : mon email ?
+2025-08-05 10:44:38,965 - app.main - INFO - Message original : c'est quoi mon solde congé ?
+2025-08-05 10:44:38,965 - app.main - INFO - Message corrigé : est quoi mon solde congé ?
+2025-08-05 10:44:42,906 - app.main - INFO - Message original : et solde rtt ?
+2025-08-05 10:44:42,907 - app.main - INFO - Message corrigé : et solde rtt ?
+2025-08-05 10:44:58,014 - app.main - INFO - Message original : c quoi les info user de khadija bennani ?
+2025-08-05 10:44:58,015 - app.main - INFO - Message corrigé : a quoi les info user de khadija bernant ?
+2025-08-05 10:45:12,757 - app.main - INFO - Message original : mon department ?
+2025-08-05 10:45:12,758 - app.main - INFO - Message corrigé : mon department ?
+2025-08-05 10:45:26,798 - app.main - INFO - Message original : je veux les info user de Omar Touhami
+2025-08-05 10:45:26,800 - app.main - INFO - Message corrigé : je veux les info user de omar touhami
+2025-08-05 10:45:53,914 - app.main - INFO - Message original : Fournissez la procedure congé ?
+2025-08-05 10:45:53,915 - app.main - INFO - Message corrigé : fournissez la procédure congé ?
+2025-08-05 10:46:17,981 - app.main - INFO - Message original : je veux posé une demande de congé
+2025-08-05 10:46:17,982 - app.main - INFO - Message corrigé : je veux posé une demande de congé
+2025-08-05 10:47:39,464 - app.main - INFO - Message original : enregistré une demande de congé pour moi
+2025-08-05 10:47:39,464 - app.main - INFO - Message corrigé : enregistré une demande de congé pour moi
+2025-08-05 10:47:43,877 - app.main - INFO - Message original : demande de congé
+2025-08-05 10:47:43,878 - app.main - INFO - Message corrigé : demande de congé
+2025-08-05 10:47:57,300 - app.main - INFO - Message original : procédure congé
+2025-08-05 10:47:57,301 - app.main - INFO - Message corrigé : procédure congé
+2025-08-05 10:48:17,892 - app.main - INFO - Message original : je veux déposé une demande de congé
+2025-08-05 10:48:17,893 - app.main - INFO - Message corrigé : je veux déposé une demande de congé
+2025-08-05 10:49:53,130 - app.main - INFO - Message original : je veux faire une demande
+2025-08-05 10:49:53,132 - app.main - INFO - Message corrigé : je veux faire une demande
+2025-08-05 10:49:58,055 - app.main - INFO - Message original : demande de congé
+2025-08-05 10:49:58,055 - app.main - INFO - Message corrigé : demande de congé
+2025-08-05 10:52:37,276 - app.main - INFO - Message original : Procédure congé
+2025-08-05 10:52:37,279 - app.main - INFO - Message corrigé : procédure congé
+2025-08-05 10:52:49,316 - app.main - INFO - Message original : je veux posé une demande de congé
+2025-08-05 10:52:49,316 - app.main - INFO - Message corrigé : je veux posé une demande de congé
+2025-08-05 10:52:52,908 - app.main - INFO - Message original : lol
+2025-08-05 10:52:52,908 - app.main - INFO - Message corrigé : vol
+2025-08-05 10:52:53,660 - app.main - INFO - Message original : lol
+2025-08-05 10:52:53,661 - app.main - INFO - Message corrigé : vol
+2025-08-05 10:52:55,214 - app.main - INFO - Message original : lol
+2025-08-05 10:52:55,215 - app.main - INFO - Message corrigé : vol
+2025-08-05 10:52:57,594 - app.main - INFO - Message original : lol
+2025-08-05 10:52:57,595 - app.main - INFO - Message corrigé : vol
+2025-08-05 10:53:25,626 - app.main - INFO - Message original : procédure congé
+2025-08-05 10:53:25,626 - app.main - INFO - Message corrigé : procédure congé
+2025-08-05 10:53:50,388 - app.main - INFO - Message original : je veux posé une demande de congé
+2025-08-05 10:53:50,389 - app.main - INFO - Message corrigé : je veux posé une demande de congé
+2025-08-05 10:54:05,752 - app.main - INFO - Message original : je veux posé une demande congé
+2025-08-05 10:54:05,753 - app.main - INFO - Message corrigé : je veux posé une demande congé
+2025-08-05 10:56:00,558 - app.main - INFO - Message original : procédure congé
+2025-08-05 10:56:00,560 - app.main - INFO - Message corrigé : procédure congé
+2025-08-05 10:56:07,496 - app.main - INFO - Message original : je veux posé une demande de congé
+2025-08-05 10:56:07,496 - app.main - INFO - Message corrigé : je veux posé une demande de congé
+2025-08-05 10:56:11,549 - app.main - INFO - Message original : maladie
+2025-08-05 10:56:11,550 - app.main - INFO - Message corrigé : maladie
+2025-08-05 10:56:25,922 - app.main - INFO - Message original : 2025-08-05
+2025-08-05 10:56:25,923 - app.main - INFO - Message corrigé : 2025-08-05
+2025-08-05 10:56:32,980 - app.main - INFO - Message original : 2025-08-15
+2025-08-05 10:56:32,981 - app.main - INFO - Message corrigé : 2025-08-15
+2025-08-05 10:56:46,438 - app.main - INFO - Message original : J'ai une jambe cassée
+2025-08-05 10:56:46,447 - app.main - INFO - Message corrigé : ai une jambe cassée
+2025-08-05 10:57:48,605 - app.main - INFO - Message original : je veux avoir le suivi de mes congés
+2025-08-05 10:57:48,605 - app.main - INFO - Message corrigé : je veux avoir le suivi de mes congés
+2025-08-05 10:58:11,131 - app.main - INFO - Message original : je veux voir mes logs
+2025-08-05 10:58:11,132 - app.main - INFO - Message corrigé : je veux voir mes logs
+2025-08-05 10:58:50,982 - app.main - INFO - Message original : affichez moi la liste de congés
+2025-08-05 10:58:50,984 - app.main - INFO - Message corrigé : affichez moi la liste de congés
+2025-08-05 11:00:54,227 - app.main - INFO - Message original : liste congé
+2025-08-05 11:00:54,228 - app.main - INFO - Message corrigé : liste congé
+2025-08-05 11:06:02,375 - app.main - INFO - Message original : liste congé
+2025-08-05 11:06:02,377 - app.main - INFO - Message corrigé : liste congé
+2025-08-05 11:06:39,122 - app.main - INFO - Message original : fournissez la liste de congé
+2025-08-05 11:06:39,144 - app.main - INFO - Message corrigé : fournissez la liste de congé
+2025-08-05 11:07:03,961 - app.main - INFO - Message original : liste de congé
+2025-08-05 11:07:03,962 - app.main - INFO - Message corrigé : liste de congé
+2025-08-05 11:07:07,182 - app.main - INFO - Message original : dmzszce
+2025-08-05 11:07:07,183 - app.main - INFO - Message corrigé : dmzszce
+2025-08-05 11:07:10,192 - app.main - INFO - Message original : ll
+2025-08-05 11:07:10,194 - app.main - INFO - Message corrigé : le
+2025-08-05 11:07:12,190 - app.main - INFO - Message original : ù
+2025-08-05 11:07:12,191 - app.main - INFO - Message corrigé : a
+2025-08-05 11:07:37,595 - app.main - INFO - Message original : la liste de congé
+2025-08-05 11:07:37,598 - app.main - INFO - Message corrigé : la liste de congé
+2025-08-05 11:09:28,874 - app.main - INFO - Message original : liste de congé
+2025-08-05 11:09:28,876 - app.main - INFO - Message corrigé : liste de congé
+2025-08-05 11:09:41,421 - app.main - INFO - Message original : f
+2025-08-05 11:09:41,422 - app.main - INFO - Message corrigé : a
+2025-08-05 11:09:41,662 - app.main - INFO - Message original : f
+2025-08-05 11:09:41,662 - app.main - INFO - Message corrigé : a
+2025-08-05 11:09:41,832 - app.main - INFO - Message original : f
+2025-08-05 11:09:41,833 - app.main - INFO - Message corrigé : a
+2025-08-05 11:09:42,008 - app.main - INFO - Message original : f
+2025-08-05 11:09:42,009 - app.main - INFO - Message corrigé : a
+2025-08-05 11:09:42,161 - app.main - INFO - Message original : f
+2025-08-05 11:09:42,161 - app.main - INFO - Message corrigé : a
+2025-08-05 11:09:53,447 - app.main - INFO - Message original : liste de congés
+2025-08-05 11:09:53,448 - app.main - INFO - Message corrigé : liste de congés
+2025-08-05 11:10:26,556 - app.main - INFO - Message original : liste de congés
+2025-08-05 11:10:26,567 - app.main - INFO - Message corrigé : liste de congés
+2025-08-05 11:10:42,326 - app.main - INFO - Message original : liste des congés
+2025-08-05 11:10:42,327 - app.main - INFO - Message corrigé : liste des congés
+2025-08-05 11:11:18,330 - app.main - INFO - Message original : liste de congés
+2025-08-05 11:11:18,331 - app.main - INFO - Message corrigé : liste de congés
+2025-08-05 11:11:20,235 - app.main - INFO - Message original : liste des congés
+2025-08-05 11:11:20,246 - app.main - INFO - Message corrigé : liste des congés
+2025-08-05 11:11:50,066 - app.main - INFO - Message original : donnez moi la prévision charge ?
+2025-08-05 11:11:50,067 - app.main - INFO - Message corrigé : donnez moi la prévision charge ?
+2025-08-05 11:12:25,112 - app.main - INFO - Message original : pouvez vous fournir une explication 
+2025-08-05 11:12:25,134 - app.main - INFO - Message corrigé : pouvez vous fournir une explication
+2025-09-01 08:44:13,637 - app.main - INFO - Message original : Mes logs
+2025-09-01 08:44:13,640 - app.main - INFO - Message corrigé : mes logs
+2025-09-01 08:47:30,175 - app.main - INFO - Message original : mes logs
+2025-09-01 08:47:30,177 - app.main - INFO - Message corrigé : mes logs
+2025-09-01 09:04:59,777 - app.main - INFO - Message original : mes logs
+2025-09-01 09:04:59,778 - app.main - INFO - Message corrigé : mes logs
+2025-09-01 09:09:21,879 - app.main - INFO - Message original : Je veux voir mes logs 
+2025-09-01 09:09:21,885 - app.main - INFO - Message corrigé : je veux voir mes logs
+2025-09-03 23:20:01,578 - app.main - INFO - Message original : 
+2025-09-03 23:20:01,579 - app.main - INFO - Message corrigé : 
+2025-09-03 23:22:13,480 - app.main - INFO - Message original : info rh
+2025-09-03 23:22:13,481 - app.main - INFO - Message corrigé : info oh
+2025-09-03 23:22:13,487 - app.main - INFO - Message original : info rh
+2025-09-03 23:22:13,488 - app.main - INFO - Message corrigé : info oh
+2025-09-03 23:22:39,905 - app.main - INFO - Message original : comment contacter un rh
+2025-09-03 23:22:39,906 - app.main - INFO - Message corrigé : comment contacter un oh
+2025-09-03 23:22:39,912 - app.main - INFO - Message original : comment contacter un rh
+2025-09-03 23:22:39,913 - app.main - INFO - Message corrigé : comment contacter un oh
+2025-09-03 23:22:50,728 - app.main - INFO - Message original : informations rh
+2025-09-03 23:22:50,729 - app.main - INFO - Message corrigé : informations oh
+2025-09-03 23:22:50,735 - app.main - INFO - Message original : informations rh
+2025-09-03 23:22:50,737 - app.main - INFO - Message corrigé : informations oh
+2025-09-03 23:24:51,466 - app.main - INFO - Message original : info rh
+2025-09-03 23:24:51,468 - app.main - INFO - Message corrigé : info oh
+2025-09-03 23:24:51,477 - app.main - INFO - Message original : info rh
+2025-09-03 23:24:51,478 - app.main - INFO - Message corrigé : info oh
+2025-09-03 23:26:16,926 - app.main - INFO - Message original : info rh
+2025-09-03 23:26:16,929 - app.main - INFO - Message corrigé : info rh
+2025-09-03 23:26:23,556 - app.main - INFO - Message original : comment contacter rh
+2025-09-03 23:26:23,557 - app.main - INFO - Message corrigé : comment contacter rh
+2025-09-03 23:29:04,986 - app.main - INFO - Message original : 
+2025-09-03 23:29:04,987 - app.main - INFO - Message corrigé : 
+2025-09-03 23:30:03,762 - app.main - INFO - Message original : Quelles sont les principales missions d’un responsable RH ?
+2025-09-03 23:30:03,763 - app.main - INFO - Message corrigé : quelles sont les principales missions un responsable rh ?
+2025-09-03 23:33:22,798 - app.main - INFO - Message original : Comment le service RH peut-il aider les employés au quotidien ?
+2025-09-03 23:33:22,800 - app.main - INFO - Message corrigé : comment le service rh peut-il aider les employés au quotidien ?
+2025-09-03 23:35:26,608 - app.main - INFO - Message original : 
+2025-09-03 23:35:26,614 - app.main - INFO - Message corrigé : 
+2025-09-03 23:35:46,494 - app.main - INFO - Message original : 
+2025-09-03 23:35:46,499 - app.main - INFO - Message corrigé : 
+2025-09-03 23:35:53,364 - app.main - INFO - Message original : Comment contacter les rh
+2025-09-03 23:35:53,365 - app.main - INFO - Message corrigé : comment contacter les rh
+2025-09-03 23:35:53,375 - app.main - INFO - Message original : Comment contacter les rh
+2025-09-03 23:35:53,376 - app.main - INFO - Message corrigé : comment contacter les rh
+2025-09-03 23:37:30,126 - app.main - INFO - Message original : 
+2025-09-03 23:37:30,130 - app.main - INFO - Message corrigé : 
+2025-09-03 23:37:40,392 - app.main - INFO - Message original : Comment contacter un rh ?
+2025-09-03 23:37:40,394 - app.main - INFO - Message corrigé : comment contacter un rh ?
+2025-09-03 23:37:44,442 - app.main - INFO - Message original : info rh ?
+2025-09-03 23:37:44,444 - app.main - INFO - Message corrigé : info rh ?
+2025-09-03 23:38:30,645 - app.main - INFO - Message original : 
+2025-09-03 23:38:30,646 - app.main - INFO - Message corrigé : 
+2025-09-03 23:38:35,507 - app.main - INFO - Message original : Comment contacter un rh ?
+2025-09-03 23:38:35,508 - app.main - INFO - Message corrigé : comment contacter un rh ?
+2025-09-03 23:38:38,085 - app.main - INFO - Message original : info rh ?
+2025-09-03 23:38:38,086 - app.main - INFO - Message corrigé : info rh ?
+2025-09-03 23:38:57,602 - app.main - INFO - Message original : comment le service rh peut il aider les employés au quotidien ,
+2025-09-03 23:38:57,604 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés au quotidien ,
+2025-09-03 23:39:24,144 - app.main - INFO - Message original : 
+2025-09-03 23:39:24,145 - app.main - INFO - Message corrigé : 
+2025-09-03 23:39:32,628 - app.main - INFO - Message original : comment contacter un rh ?
+2025-09-03 23:39:32,628 - app.main - INFO - Message corrigé : comment contacter un rh ?
+2025-09-03 23:39:37,187 - app.main - INFO - Message original : Info rh ?
+2025-09-03 23:39:37,188 - app.main - INFO - Message corrigé : info rh ?
+2025-09-03 23:39:51,947 - app.main - INFO - Message original : comment le service rh peut il aider les employes au quotidien ?
+2025-09-03 23:39:51,948 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés au quotidien ?
+2025-09-03 23:40:30,456 - app.main - INFO - Message original : comment le service rh peut il aider les employes au quotidien
+2025-09-03 23:40:30,457 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés au quotidien
+2025-09-03 23:43:07,241 - app.main - INFO - Message original : comment le service rh peut il aider les employés
+2025-09-03 23:43:07,245 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés
+2025-09-03 23:43:18,728 - app.main - INFO - Message original : comment le service rh peut il aider les employés?
+2025-09-03 23:43:18,729 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés
+2025-09-03 23:43:21,354 - app.main - INFO - Message original : comment le service rh peut il aider les employés? 
+2025-09-03 23:43:21,355 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés
+2025-09-03 23:44:35,145 - app.main - INFO - Message original : comment rh aide employés
+2025-09-03 23:44:35,148 - app.main - INFO - Message corrigé : comment rh aide employés
+2025-09-03 23:46:21,045 - app.main - INFO - Message original : comment les rh aident les employés
+2025-09-03 23:46:21,047 - app.main - INFO - Message corrigé : comment les rh aident les employés
+2025-09-03 23:46:21,107 - app.main - INFO - Message original : comment les rh aident les employés
+2025-09-03 23:46:21,108 - app.main - INFO - Message corrigé : comment les rh aident les employés
+2025-09-03 23:46:27,294 - app.main - INFO - Message original : comment les rh aident les employés?
+2025-09-03 23:46:27,295 - app.main - INFO - Message corrigé : comment les rh aident les employés
+2025-09-03 23:46:27,303 - app.main - INFO - Message original : comment les rh aident les employés?
+2025-09-03 23:46:27,303 - app.main - INFO - Message corrigé : comment les rh aident les employés
+2025-09-03 23:46:32,378 - app.main - INFO - Message original : comment rh aide employés
+2025-09-03 23:46:32,379 - app.main - INFO - Message corrigé : comment rh aide employés
+2025-09-03 23:50:12,277 - app.main - INFO - Message original : comment le service rh peut il aider les emplyes
+2025-09-03 23:50:12,279 - app.main - INFO - Message corrigé : comment le service rh peut il aider les emplies
+2025-09-03 23:50:22,254 - app.main - INFO - Message original : comment le service rh peut il aider les employes
+2025-09-03 23:50:22,255 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés
+2025-09-03 23:50:47,262 - app.main - INFO - Message original : comment contacter un rh 
+2025-09-03 23:50:47,265 - app.main - INFO - Message corrigé : comment contacter un rh
+2025-09-03 23:50:51,660 - app.main - INFO - Message original : info rh ?
+2025-09-03 23:50:51,662 - app.main - INFO - Message corrigé : info rh ?
+2025-09-03 23:51:01,142 - app.main - INFO - Message original : comment le service rh aide les employes
+2025-09-03 23:51:01,148 - app.main - INFO - Message corrigé : comment le service rh aide les employés
+2025-09-03 23:51:59,009 - app.main - INFO - Message original : comment conactacter le service rh ?
+2025-09-03 23:51:59,010 - app.main - INFO - Message corrigé : comment contacter le service rh ?
+2025-09-03 23:52:03,109 - app.main - INFO - Message original : info rh ?
+2025-09-03 23:52:03,113 - app.main - INFO - Message corrigé : info rh ?
+2025-09-03 23:52:22,065 - app.main - INFO - Message original : comment le service rh peut il aider les employés ?
+2025-09-03 23:52:22,066 - app.main - INFO - Message corrigé : comment le service rh peut il aider les employés ?
+2025-09-04 16:45:36,690 - app.main - INFO - Message original : 
+2025-09-04 16:45:36,692 - app.main - INFO - Message corrigé : 
+2025-09-04 16:45:40,532 - app.main - INFO - Message original : Bjr !
+2025-09-04 16:45:40,533 - app.main - INFO - Message corrigé : bonjour !
+2025-09-04 16:45:40,537 - app.main - INFO - Message original : Bjr !
+2025-09-04 16:45:40,538 - app.main - INFO - Message corrigé : bonjour !
+2025-09-04 16:45:49,957 - app.main - INFO - Message original : mon rle dans l'entreprise ?
+2025-09-04 16:45:49,957 - app.main - INFO - Message corrigé : mon role dans entreprise ?
+2025-09-04 16:45:51,283 - app.main - INFO - Message original : mon rle dans l'entreprise ?
+2025-09-04 16:45:51,284 - app.main - INFO - Message corrigé : mon role dans entreprise ?
+2025-09-04 16:46:02,220 - app.main - INFO - Message original : comment contaceter le service rh 
+2025-09-04 16:46:02,221 - app.main - INFO - Message corrigé : comment contacter le service rh
+2025-09-04 16:46:35,073 - app.main - INFO - Message original : comment le service rh peut il aider ses employes ?
+2025-09-04 16:46:35,075 - app.main - INFO - Message corrigé : comment le service rh peut il aider ses employés ?
+2025-09-04 20:07:36,069 - app.main - INFO - Message original : 
+2025-09-04 20:07:36,071 - app.main - INFO - Message corrigé : 
+2025-09-04 20:07:36,076 - app.main - INFO - Message original : 
+2025-09-04 20:07:36,076 - app.main - INFO - Message corrigé : 
+2025-09-04 20:07:43,062 - app.main - INFO - Message original : comment rh aide a evoluer
+2025-09-04 20:07:43,063 - app.main - INFO - Message corrigé : comment rh aide a évoluer
+2025-09-04 20:07:43,068 - app.main - INFO - Message original : comment rh aide a evoluer
+2025-09-04 20:07:43,069 - app.main - INFO - Message corrigé : comment rh aide a évoluer
+2025-09-04 20:07:43,078 - app.main - INFO - Message original : comment rh aide a evoluer
+2025-09-04 20:07:43,081 - app.main - INFO - Message corrigé : comment rh aide a évoluer
+2025-09-04 20:07:49,910 - app.main - INFO - Message original : role du service rh
+2025-09-04 20:07:49,911 - app.main - INFO - Message corrigé : rôle du service rh
+2025-09-04 20:07:49,913 - app.main - INFO - Message original : role du service rh
+2025-09-04 20:07:49,914 - app.main - INFO - Message corrigé : rôle du service rh
+2025-09-04 20:08:34,476 - app.main - INFO - Message original : utilite du service rh
+2025-09-04 20:08:34,477 - app.main - INFO - Message corrigé : utilise du service rh
+2025-09-04 20:08:34,479 - app.main - INFO - Message original : utilite du service rh
+2025-09-04 20:08:34,480 - app.main - INFO - Message corrigé : utilise du service rh
+2025-09-04 20:11:22,060 - app.main - INFO - Message original : comment rh aide a evoluer
+2025-09-04 20:11:22,061 - app.main - INFO - Message corrigé : comment rh aide a évoluer
+2025-09-04 20:11:30,775 - app.main - INFO - Message original : role du service rh
+2025-09-04 20:11:30,776 - app.main - INFO - Message corrigé : rôle du service rh
+2025-09-04 20:11:30,779 - app.main - INFO - Message original : role du service rh
+2025-09-04 20:11:30,780 - app.main - INFO - Message corrigé : rôle du service rh
